@@ -77,7 +77,7 @@ const Hero = () => {
             >
               <Avatar className="w-60 h-60 md:w-72 md:h-72 border-4 border-accent/20">
                 <AvatarImage
-                  src="Profile Photo.jpg"
+                  src="/Profile Photo.jpg"
                   alt="Your profile photo"
                   className="object-cover"
                 />
