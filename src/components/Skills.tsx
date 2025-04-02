@@ -8,9 +8,8 @@ const skills = [
   { name: "Python", level: 85 },
   { name: "C", level: 80 },
   { name: "HTML/CSS", level: 75 },
-  { name: "Machine Learning", level: 75 },
-  { name: "Data Analysis", level: 80 },
-  { name: "Deep Learning", level: 70 },
+  { name: "Machine Learning", level: 30 },
+  { name: "Data Analysis", level: 30 },
 ];
 
 const SkillBar = ({ name, level, delay }: { name: string; level: number; delay: number }) => {
@@ -63,12 +62,7 @@ const Skills = () => {
       title: "Data Analysis",
       content: "Extracting insights from data using statistical methods and visualization techniques.",
       icon: <LineChart className="w-5 h-5" />
-    },
-    {
-      title: "Deep Learning",
-      content: "Working with neural networks for image recognition, natural language processing, and other AI applications.",
-      icon: <Layers className="w-5 h-5" />
-    },
+    }
     {
       title: "Continuous Learning",
       content: "Actively expanding my knowledge through coursework, projects, and online resources.",
