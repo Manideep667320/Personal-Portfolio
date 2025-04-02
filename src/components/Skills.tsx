@@ -62,7 +62,7 @@ const Skills = () => {
       title: "Data Analysis",
       content: "Extracting insights from data using statistical methods and visualization techniques.",
       icon: <LineChart className="w-5 h-5" />
-    }
+    },
     {
       title: "Continuous Learning",
       content: "Actively expanding my knowledge through coursework, projects, and online resources.",
