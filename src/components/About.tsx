@@ -49,7 +49,7 @@ const About = () => {
               viewport={{ once: true }}
             >
               <p>
-                I'm currently a 3nd year Computer Science Engineering student at KG Reddy College of Engineering and Technology,
+                I'm currently a 2nd year Computer Science Engineering student at KG Reddy College of Engineering and Technology,
                 specializing in Artificial Intelligence and Machine Learning.
               </p>
               <p>
