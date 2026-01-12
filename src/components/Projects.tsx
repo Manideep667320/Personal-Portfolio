@@ -24,7 +24,7 @@ const projects = [
     title:"Spam Email Detection Using Perceptron",
     description:"Project implements a Perceptron-based spam email detection system trained on the Enron email dataset. Users can paste email content into a modern web interface and receive instant predictions with confidence scores.",
     tags:["Machine Learning","Perceptron","Web Development","Python"],
-    imageUrl:"/images/Spam Email.png",
+    imageUrl:"/images/SpamEmail.png",
     githubUrl:"https://github.com/Manideep667320/Email_Spam_detection"
   },
   {
