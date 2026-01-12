@@ -17,14 +17,14 @@ const projects = [
     title:"FormEase - Fill your forms with voice",
     description: "An AI voice-based assistant helps users fill out forms like passport and Aadhaar applications using voice commands. It utilizes speech-to-text, natural language processing, and form autofill to ensure accuracy. Users can securely review, edit, and download forms. Future enhancements include document verification and direct submission to government portals.",
     tags: ["AI", "NLP", "Speech-to-Text", "Web Development"],
-    imageUrl: "/public/images/FormEase.png",
+    imageUrl: "/images/FormEase.png",
     githubUrl: "https://github.com/Manideep667320/FormEase"
   },
   {
     title:"Spam Email Detection Using Perceptron",
     description:"Project implements a Perceptron-based spam email detection system trained on the Enron email dataset. Users can paste email content into a modern web interface and receive instant predictions with confidence scores.",
     tags:["Machine Learning","Perceptron","Web Development","Python"],
-    imageUrl:"/public/images/Spam Email.png",
+    imageUrl:"/images/Spam Email.png",
     githubUrl:"https://github.com/Manideep667320/Email_Spam_detection"
   },
   {
